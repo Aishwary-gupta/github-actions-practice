@@ -13,7 +13,8 @@ jobs:
 
       - name: Say Hello
         run: echo "Hello from GitHub Actions!"
-         - name: Show Current Date and Time
+
+      - name: Show Current Date and Time
         run: date
 
       - name: Show Branch Name
